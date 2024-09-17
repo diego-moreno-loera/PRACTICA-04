@@ -1,4 +1,4 @@
 # PRACTICA-04
-DIEGO MORENO LOERA 
+Diego Moreno Loera
 321283490
 diegoml2420@gmail.com
